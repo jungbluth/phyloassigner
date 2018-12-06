@@ -1,5 +1,8 @@
 # phyloassigner
 
+Clone of code found here: 
+https://www.awi.de/en/science/special-groups/scientific-computing/bioinformatics/software.html
+
                     P h y l o A s s i g n e r   R E A D M E
                                 
                                 17th July 2012
